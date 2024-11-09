@@ -1,11 +1,11 @@
 import React from 'react'
-import ComponentsShowcase from './pages/ComponentsShowcase'
+import LandingPage from './pages/LandingPage'
 import './styles/globals.css'
 
 const App: React.FC = () => {
   return (
     <div>
-      <ComponentsShowcase />
+      <LandingPage />
     </div>
   )
 }
